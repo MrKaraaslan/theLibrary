@@ -4,7 +4,7 @@
 
 ##### Parts:
 
-* Using camera and gallery [code](https://github.com/MrKaraaslan/theLibrary/tree/master/Library/ActionSheetExample).
+* Using camera and gallery [code](https://github.com/MrKaraaslan/theLibrary/tree/master/Library/CameraAndGallery).
   - [video](https://web.itu.edu.tr/karaaslan18/swiftui.html#cameraAndGallery).
 
 * Using ActionSheet [code](https://github.com/MrKaraaslan/theLibrary/tree/master/Library/ActionSheetExample)
