@@ -4,8 +4,8 @@
 
 ##### Parts:
 
-* Using camera and gallery [code](https://github.com/MrKaraaslan/theLibrary/tree/master/CameraAndGallery).
-  - [video](https://web.itu.edu.tr/karaaslan18/gitVideos.html#cameraAndGallery).
+* Using camera and gallery [code](https://github.com/MrKaraaslan/theLibrary/tree/master/Library/ActionSheetExample).
+  - [video](https://web.itu.edu.tr/karaaslan18/swiftui.html#cameraAndGallery).
 
-* Using ActionSheet [code](https://github.com/MrKaraaslan/theLibrary/tree/master/ActionSheetExample)
+* Using ActionSheet [code](https://github.com/MrKaraaslan/theLibrary/tree/master/Library/ActionSheetExample)
     - [video](https://web.itu.edu.tr/karaaslan18/swiftui.html#actionSheet)
