@@ -5,10 +5,7 @@
 ##### Parts:
 
 * Using camera and gallery [code](https://github.com/MrKaraaslan/theLibrary/tree/master/Library/CameraAndGallery).
-  - [video](https://web.itu.edu.tr/karaaslan18/swiftui.html#cameraAndGallery).
-
 * Using ActionSheet [code](https://github.com/MrKaraaslan/theLibrary/tree/master/Library/ActionSheetExample)
-    - [video](https://web.itu.edu.tr/karaaslan18/swiftui.html#actionSheet)
+* Code MultilineTextField [code](https://github.com/MrKaraaslan/theLibrary/tree/master/Library/multilineTextField)
 
-* Code MultilineTextField [code](https://github.com/MrKaraaslan/theLibrary/tree/master/Library/MultilineTextField)
-    - [video](https://web.itu.edu.tr/karaaslan18/swiftui.html#multilineTextField)
+Wanna see how this things work? Check  [here](https://web.itu.edu.tr/karaaslan18/swiftui.html
